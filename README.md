@@ -23,7 +23,7 @@
 </div>
 
 ## 🚀 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,vscode,git,mysql,postgres,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,py,java,vscode,git,mysql,postgres,linux,windows)](https://skillicons.dev)
 
 ## 📊 Estatísticas
 <div>
